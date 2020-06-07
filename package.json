@@ -1,0 +1,25 @@
+{
+  "name": "NLW-Ecoleta",
+  "version": "1.0.0",
+  "description": "Projeto feito durante curso do Next Level Week.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinascoimbra/NLW-Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinascoimbra/NLW-Ecoleta/issues"
+  },
+  "homepage": "https://github.com/marinascoimbra/NLW-Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1"
+  }
+}
